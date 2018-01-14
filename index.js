@@ -16,5 +16,5 @@ function divide(a,b){
 
 function inc(n) {
   var n = 777
-  return n++
+  return n+1
 }
