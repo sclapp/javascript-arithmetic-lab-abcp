@@ -14,6 +14,7 @@ function divide(a,b){
   return a / b
 }
 
-function inc(908) {
+function inc(n) {
+  var n = 908
   return n++
 }
